@@ -24,7 +24,7 @@ namespace photohash
         static void Main(string[] args)
         {
             string dirPath = "/mnt/Photo Shoots for clients/2016";
-            string filePattern = "*.cr2";
+            string filePattern = "*.CR2";
             List<string> directories = new List<string>(Directory.EnumerateDirectories(dirPath));
             foreach (var dir in directories)
             {
