@@ -338,3 +338,6 @@ ASALocalRun/
 .localhistory/
 .DS_Store
 .gitignore
+
+# My custom thing
+hashes.db
